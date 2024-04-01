@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
     print('iiiiiiiiiiii');
 
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Demo page',
       theme: ThemeData(
 
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
